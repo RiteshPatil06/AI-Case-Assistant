@@ -18,7 +18,7 @@ This Streamlit application is a Consent Management System with an AI Case Assist
 * **Date Tracking**: Each case includes a date, and the application supports filtering by date ranges.
 * **Probability Display**: Displays the probabilities for each risk level, providing more nuanced information about the AI's assessment.
 * **Comprehensive Categories and Statuses**: Includes a wide range of categories and consent statuses to cover more scenarios.
-* **Input Validation**: Basic input validation.
+* **Input Validation**: Basic input validation
 * **Model Retraining**: The model is retrained after adding, updating, or deleting cases to keep it up-to-date.
 
 ## How to Use
@@ -131,5 +131,6 @@ cases = [
 ```
 ---
 Consent AI as per DPDP 2023 India Law
-#   A I - C a s e - A s s i s t a n t  
+#   A I - C a s e - A s s i s t a n t 
+ 
  
